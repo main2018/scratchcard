@@ -1,6 +1,6 @@
 /*刮刮卡*/
 function ScratchCard(config) {
-    this.config = {
+    this.config ={
         // canvas元素
         canvas: null,
         // 直接全部刮开的百分比
